@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm BenePoedel, a full-time full-stack freelance developer 👨‍💻 working remotely since 2013 🚀</div>  
+### <div align="center">I'm Benedikt and i hate Borussia Dortmund</div>  
   
 
 - 🔭 I’m currently working on [LyroTopia](https://lyrotopia.net)  
@@ -114,5 +114,3 @@ If things goes well, this section should automatically be replaced by a list of 
             </a></div>
 <br />
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
